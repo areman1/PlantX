@@ -2,8 +2,10 @@
 The ultimate guide to providing the best care for your plants
 
 Install cocoa pods 
-pod 'GoogleAPIClientForREST/Sheets', '~> 1.2.1'
-pod 'GoogleSignIn', '~> 4.1.1'
+
+    pod 'GoogleAPIClientForREST/Sheets', '~> 1.2.1'
+    
+    pod 'GoogleSignIn', '~> 4.1.1'
 
 Open file
 PlantX.xcworkspace
