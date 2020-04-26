@@ -8,12 +8,16 @@ Install cocoa pods
     pod 'GoogleSignIn', '~> 4.1.1'
 
 Open file
-PlantX.xcworkspace
+
+
+       PlantX.xcworkspace
 Correct file is .xcworkspace not .xcodeproj
 
 PlantX plant health device code
-PlantX.ino 	
+            
+       PlantX.ino 	
 This is the Arduino code that runs and collects data from physical device
 
 Deploy to target
-Build for iPhone 11 Pro Max or iPhone XS Max
+
+       Build for iPhone 11 Pro Max or iPhone XS Max
